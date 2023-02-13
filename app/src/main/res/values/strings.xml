@@ -4,4 +4,18 @@
     <string name="history">История</string>
     <string name="stat">Статистика</string>
     <string name="lenta">Лента</string>
+    <string name="products">Продукты</string>
+    <string name="money">money</string>
+    <string name="card">Карта</string>
+    <string name="cash">Кошелек</string>
+    <string name="main">Главная</string>
+    <string name="balance">БАЛАНС: 0 Р</string>
+    <string name="rashody">Расходы за месяц: 0 Р</string>
+    <string name="present">Подарок</string>
+    <string name="pets">Питомцы</string>
+    <string name="shopitems">Покупки</string>
+    <string name="uslugi">Услуги</string>
+    <string name="Cafe">Кафе</string>
+    <string name="Home">Дом</string>
+    <string name="fun">Досуг</string>
 </resources>
