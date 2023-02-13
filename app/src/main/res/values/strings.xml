@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FinanceManagerVK</string>
+    <string name="_add">Добавить</string>
+    <string name="history">История</string>
+    <string name="stat">Статистика</string>
+    <string name="lenta">Лента</string>
+</resources>
